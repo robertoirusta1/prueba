@@ -2,6 +2,7 @@ public class array_no_repetido {
 
 	public static void main(String[] args) {
 		int[] num=new int[10];
+		System.out.println("Hola mundo");
 		for(int i=0;i<num.length;i++)
 		{
 			num[i]=0;
